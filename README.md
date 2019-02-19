@@ -10,7 +10,7 @@ Hacker-Friendly Search Engines
 * [Have I Been Pwned](https://haveibeenpwned.com/) Check if you have an account that has been compromised in a data breach
 * [Hunter](https://hunter.io) Hunter lets you find email addresses and connect with the people
 
-## Vulnerability Search Engines
+## Vulnerability and Exploit Search Engines
 * [Vulmon](https://vulmon.com) Vulnerability and exploit search engine with vulnerability intelligence features.
 * [Exploit Database](https://www.exploit-db.com) Exploits for Penetration Testers, Researchers, and Ethical Hackers
 
