@@ -6,8 +6,9 @@ Hacker-Friendly Search Engines
 * [MxToolbox](https://mxtoolbox.com) Check DNS MX Records online
 * [DNSdumpster](https://dnsdumpster.com) FREE domain research tool that can discover hosts related to a domain
 
-## Compromised Account DBs
+## User Account DBs
 * [Have I Been Pwned](https://haveibeenpwned.com/) Check if you have an account that has been compromised in a data breach
+* [Hunter](https://hunter.io) Hunter lets you find email addresses and connect with the people
 
 ## Vulnerability Search Engines
 * [Vulmon](https://vulmon.com) Vulnerability and exploit search engine with vulnerability intelligence features.
@@ -21,5 +22,6 @@ Hacker-Friendly Search Engines
 ## Web Archive
 * [The Wayback Machine](https://web.archive.org) The Wayback Machine is a digital archive of the World Wide Web and other information on the Internet.
 
-
+## Code Search
+* [searchcode](https://searchcode.com) searchcode is a free source code search engine. Code snippets and open source (free software) repositories are indexed and searchable.
 
