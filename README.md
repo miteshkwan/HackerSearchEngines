@@ -4,7 +4,7 @@ Hacker-Friendly Search Engines
 
 ## Reconnaissance
 * [MxToolbox](https://mxtoolbox.com) Check DNS MX Records online
-* [DNSdumpster](https://mxtoolbox.com) FREE domain research tool that can discover hosts related to a domain
+* [DNSdumpster](https://dnsdumpster.com) FREE domain research tool that can discover hosts related to a domain
 
 ## Compromised Account DBs
 * [Have I Been Pwned](https://haveibeenpwned.com/) Check if you have an account that has been compromised in a data breach
